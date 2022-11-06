@@ -1,2 +1,2 @@
-# sci-pystat
-Statistical procedures and functions.
+# sci
+Scientific procedures and functions.
